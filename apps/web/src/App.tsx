@@ -135,20 +135,6 @@ export function App() {
           their day just as their families have for generations.
         </p>
 
-        <h2 className="font-medium">Getting Around</h2>
-        <p>
-          Traffic in Bangkok has a legendary reputation, but the city has
-          improved enormously with the BTS Skytrain and the MRT subway. These
-          trains are clean, fast and air-conditioned, and they connect most of
-          the places a visitor wants to go. For short trips, motorbike taxis
-          weave through jams with remarkable skill, though they are not for the
-          faint-hearted. Taxis are plentiful and affordable, especially if you
-          insist on the meter or use a ride-hailing app. And of course, there
-          is the tuk-tuk, the iconic three-wheeler that is more fun than
-          practical. Agree on the price before you step in, and enjoy the
-          ride for what it is, a small adventure.
-        </p>
-
         <h2 className="font-medium">Green Escapes and Quiet Corners</h2>
         <p>
           Despite the concrete, Bangkok has pockets of calm. Lumpini Park is
