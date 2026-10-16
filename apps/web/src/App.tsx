@@ -7,6 +7,15 @@ export function App() {
         </h1>
 
         <p>
+          Welcome to my little corner of the internet, where I share stories,
+          tips and memories from my travels in Thailand&apos;s capital. Whether
+          you are planning your first trip, returning for a second look, or
+          simply daydreaming from your sofa, I hope the pages below give you a
+          taste of the flavours, sounds and people that make Bangkok so
+          unforgettable.
+        </p>
+
+        <p>
           Bangkok is one of those cities that you either fall in love with
           immediately or need a few days to understand. The moment you step out
           of the airport, the warm, humid air wraps around you, the traffic hums
