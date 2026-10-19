@@ -135,7 +135,7 @@ export function App() {
           their day just as their families have for generations.
         </p>
 
-        {/* <h2 className="font-medium">Getting Around</h2>
+        <h2 className="font-medium">Getting Around</h2>
         <p>
           Traffic in Bangkok has a legendary reputation, but the city has
           improved enormously with the BTS Skytrain and the MRT subway. These
@@ -147,7 +147,7 @@ export function App() {
           is the tuk-tuk, the iconic three-wheeler that is more fun than
           practical. Agree on the price before you step in, and enjoy the
           ride for what it is, a small adventure.
-        </p> */}
+        </p>
 
         <h2 className="font-medium">Green Escapes and Quiet Corners</h2>
         <p>
