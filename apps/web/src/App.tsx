@@ -6,14 +6,14 @@ export function App() {
           Bangkok: A City That Never Stops Surprising You
         </h1>
 
-        <p>
+        {/* <p>
           Welcome to my little corner of the internet, where I share stories,
           tips and memories from my travels in Thailand&apos;s capital. Whether
           you are planning your first trip, returning for a second look, or
           simply daydreaming from your sofa, I hope the pages below give you a
           taste of the flavours, sounds and people that make Bangkok so
           unforgettable.
-        </p>
+        </p> */}
 
         <p>
           Bangkok is one of those cities that you either fall in love with
