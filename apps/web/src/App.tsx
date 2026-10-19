@@ -6,7 +6,7 @@ export function App() {
           Bangkok: A City That Never Stops Surprising You
         </h1>
 
-        {/* <p>
+        <p>
           Welcome to my little corner of the internet, where I share stories,
           tips and memories from my travels in Thailand&apos;s capital. Whether
           you are planning your first trip, returning for a second look, or
@@ -32,7 +32,7 @@ export function App() {
           train lines slice through neighbourhoods that have barely changed in
           fifty years. Nothing here is neatly separated. Old and new, sacred
           and ordinary, quiet and noisy all share the same street.
-        </p> */}
+        </p>
         <p>
           My first piece of advice for anyone arriving is simple: slow down. The
           city rewards those who wander without a strict plan. Some of my best
