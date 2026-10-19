@@ -32,8 +32,8 @@ export function App() {
           train lines slice through neighbourhoods that have barely changed in
           fifty years. Nothing here is neatly separated. Old and new, sacred
           and ordinary, quiet and noisy all share the same street.
-        </p>
-        <p> */}
+        </p> */}
+        <p>
           My first piece of advice for anyone arriving is simple: slow down. The
           city rewards those who wander without a strict plan. Some of my best
           memories came from a missed turn, an unexpected alley, or a stranger
