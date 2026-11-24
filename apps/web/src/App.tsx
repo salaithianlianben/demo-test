@@ -36,7 +36,7 @@ export function App() {
         <h2 className="font-medium">How eSIM Prices Work</h2>
         <p>
           eSIM pricing is mostly based on three things: the amount of data,
-          the validity period, and the coverage area. A small plan with 1GB
+          the validity period, and the coverage area. A small plan with 2GB
           valid for 7 days is often very cheap, while a 20GB plan valid for 30
           days costs considerably more. Single-country plans are generally
           the best value, while regional plans covering several countries, or
