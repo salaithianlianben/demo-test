@@ -36,7 +36,7 @@ export function App() {
         <h2 className="font-medium">How eSIM Prices Work</h2>
         <p>
           eSIM pricing is mostly based on three things: the amount of data,
-          the validity period, and the coverage area. A small plan with 2GB
+          the validity period, and the coverage area. A small plan with 3GB
           valid for 7 days is often very cheap, while a 20GB plan valid for 30
           days costs considerably more. Single-country plans are generally
           the best value, while regional plans covering several countries, or
@@ -45,7 +45,7 @@ export function App() {
         </p>
         <p>
           As a rough guide, short-term travel plans for popular destinations
-          in Asia often start from a few US dollars for 1GB, mid-sized plans
+          in Asia often start from a few US dollars for 3GB, mid-sized plans
           of 5 to 10GB typically fall in the range of 10 to 25 dollars, and
           unlimited or high-data plans can go higher depending on the country
           and network quality. Prices vary widely between providers, so it is
